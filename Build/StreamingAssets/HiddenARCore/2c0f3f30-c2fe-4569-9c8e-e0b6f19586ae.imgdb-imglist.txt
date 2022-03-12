@@ -1,5 +1,0 @@
-18bf954bd31f4197a5e68e17e57aac86|E:\workspace\unity\arproject\Assets\Images\Marker1.png|0.3
-8b177d251b2c451f8e69734dfc433188|E:\workspace\unity\arproject\Assets\Images\Marker2.png|0.3
-5e7e6e607dbb4f5780b95e39c897bc08|E:\workspace\unity\arproject\Assets\Images\Marker3.png|0.3
-bec178c5b97b427abb5e314b7f126564|E:\workspace\unity\arproject\Assets\Images\Marker4.png|0.3
-152226303a7d46f4ae523b3771cb0dc2|E:\workspace\unity\arproject\Assets\Images\Marker5.png|0.3
